@@ -1,12 +1,12 @@
-<h1 align="left">Hey 👋 que tal?</h1>
+<h1 align="left"><strong>Hey 👋 que tal?</strong></h1>
 
 ###
 
-<p align="left">My nombre es <strong>Julio Cesar Garcia</strong> y soy Web Developer de Cuba</p>
+<p align="left">Mi nombre es <strong>Julio Cesar Garcia</strong> y soy <strong>Web Developer</strong> de Cuba</p>
 
 ###
 
-<h2 align="left">ASobre mi</h2>
+<h2 align="left"><strong>Sobre mi</strong></h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Codifico con: </h2>
+<h2 align="left"><strong>Codifico con:</strong> </h2>
 
 ###
 
@@ -23,15 +23,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/djnago.svg" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="angular logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular.svg" height="40" alt="angular logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="html logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html.svg" height="40" alt="html logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css.svg" height="40" alt="css logo"  />
 </div>
 
 ###
