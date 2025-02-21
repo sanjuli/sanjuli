@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Desarrollando desde hace dos años ,br><br>📚 Ing Ciencias Informaticas<br></p>
+<p align="left">✨ Desarrollando desde hace dos años <br><br>📚 Ing Ciencias Informaticas<br></p>
 
 ###
 
