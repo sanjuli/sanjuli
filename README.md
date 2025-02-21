@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My nombre es Julio Cesar Garcia y soy Web dDveloper de Cuba</p>
+<p align="left">My nombre es <strong>Julio Cesar Garcia</strong> y soy Web Developer de Cuba</p>
 
 ###
 
